@@ -1,9 +1,7 @@
-# MADLayoutAssignmentPart2
+# MAD Assessments Semester 1 2021/2022
 
-1. Project about something....
-2. compilation instructions
-3. details
+1. First Page: Homepage
+2. Second Page: Using List in Flutter 
 
-# hello
 
-## helo
+
