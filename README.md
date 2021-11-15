@@ -1,7 +1,9 @@
 # MAD Assessments Semester 1 2021/2022
 
 $ flutter run 
+
 or
+
 $ flutter run -d `device`
 
 
